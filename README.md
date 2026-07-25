@@ -166,17 +166,7 @@ WorldBank_Capstone_Project/
 │   └── WorldBank_Technology_Internet_Adoption_Capstone_Report.docx
 │
 └── README.md
-```
 
-### Recommended uploads
-
--   **Data/** --- final analysis dataset; the original WDI download is
-    optional because of its size.
--   **Python/** --- final Python analysis/cleaning script.
--   **PowerBI/** --- completed `.pbix` file.
--   **Images/** --- dashboard screenshot.
--   **Report/** --- final report.
--   **README.md** --- this documentation.
 
 ## 🚀 How to Use
 
